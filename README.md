@@ -1,3 +1,3 @@
 # README
 
-This testapp rails app
+This rails app used for testing purpose
